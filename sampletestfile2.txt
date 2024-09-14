@@ -1,1 +1,4 @@
+"GIT REVERT COMMIT 1"
+
 This is sample file 2
+This is comparison lecture,change in file 2
