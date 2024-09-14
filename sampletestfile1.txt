@@ -1,4 +1,1 @@
-"GIT REVERT CHANGE 2"	
-
-
 This is sample file 1
